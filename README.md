@@ -154,8 +154,8 @@ Each script is self-contained; run individually as a standalone module.
 ## 🧠 Author
 
 **Calvin Lomax**  
-Data Scientist & AI Researcher  
-Focus: Quantitative modeling, portfolio optimization, and financial analytics.
+Data Science Undergraduate, Luddy School of Informatics
+Focus: Data Systems, Machine Learning, Quantitative Modeling
 
 ---
 
